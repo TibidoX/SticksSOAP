@@ -1,0 +1,10 @@
+com\mycompany\stickssoap\ServerInterface.class
+com\mycompany\stickssoap\ClientInterface.class
+com\mycompany\stickssoap\Frame.class
+com\mycompany\stickssoap\Positions.class
+com\mycompany\stickssoap\Stub.class
+com\mycompany\stickssoap\Server.class
+com\mycompany\stickssoap\MyLine.class
+com\mycompany\stickssoap\Field.class
+com\mycompany\stickssoap\RunServer.class
+com\mycompany\stickssoap\Frame$1.class
